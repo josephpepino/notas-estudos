@@ -12,4 +12,7 @@ para ultilizar o git na minha maquina eu preciso configura determinados comandos
 
 ````bash
 git config  --global
-```` ihs
+```` 
+
+
+aula do melhro sor 
